@@ -1,1 +1,0 @@
-Bienvenido a ...\n¡Estas atrapado en un videojuego y debes \n encontrar la forma de escapar de el sin ser\natrapado por Benson\nMoverse: ↑ ↓ → ←
